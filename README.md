@@ -18,11 +18,11 @@ NOTE: Some features like DVR, Parental Control, Content Rating, Timeshift and HD
 ## Development status
 <table>
   <thead>
-    <tr><th align="left"></th><th align="left">Component Name</th><th align="left">Component to replace</th><th align="left">Status</th><th align="left">Download</th></tr>
+    <tr><th align="left">Component Name</th><th align="left">Component to replace</th><th align="left">Status</th><th align="left">Download</th></tr>
   </thead>
   <tbody>
-    <tr><td><img width="48" height="48" src="https://brunochanrio.github.io/MochiTIF/MochiTIF_Icon.png"/></td><td>MochiTIF Core Library</td><td>TIF Companion Library</td><td nowrap>In development</td><td></td></tr>
-    <tr><td><img width="48" height="48" src="https://brunochanrio.github.io/MochiTIF/LiveTV_PS_Icon.png"/></td><td>MochiTIF Live TV</td><td>Live Channels</td><td nowrap>In development</td><td></td></tr>
-        <tr><td><img width="48" height="48" src="https://brunochanrio.github.io/MochiTIF/Android_Icon.png"/></td><td>MochiTIF Sample TV Input</td><td>Android Sample TV Input App</td><td nowrap>Included in MochiTIF Live TV App</td><td></td></tr>
+    <tr><td>MochiTIF Core Library</td><td>TIF Companion Library</td><td nowrap>In development</td><td></td></tr>
+    <tr></td><td>MochiTIF Live TV</td><td>Live Channels</td><td nowrap>In development</td><td></td></tr>
+    <tr></td><td>MochiTIF Sample TV Input</td><td>Android Sample TV Input App</td><td nowrap>Included in MochiTIF Live TV App</td><td></td></tr>
   </tbody>
 </table>
