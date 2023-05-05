@@ -11,11 +11,11 @@ MochiTIF is a project that aims to offer a updated replacement for both the Goog
     <tr><th align="left">Component Name</th><th align="left">Component to replace</th><th align="left">Status</th><th align="left">Download</th></tr>
   </thead>
   <tbody>
-    <tr><td>MochiTIF Core Library</td><td>TIF Companion Library</td><td nowrap>In development</td><td></td></tr>
-    <tr></td><td>MochiTIF Live TV</td><td>Live Channels</td><td nowrap >In development</td><td></td></tr>
-    <tr></td><td>MochiTIF Sample TV Input</td><td>Android Sample TV Input App</td><td nowrap>Included in MochiTIF Live TV App</td><td></td></tr>
-    <tr></td><td>MochiTIF Xtream Codes API Supplementary Library</td><td></td><td nowrap>Planned</td><td></td></tr>
-    <tr></td><td>MochiTIF M3U Supplementary Library</td><td></td><td nowrap>Planned</td><td></td></tr>
+    <tr><td>MochiTIF Core Library</td><td>TIF Companion Library</td><td>In development</td><td></td></tr>
+    <tr></td><td>MochiTIF Live TV</td><td>Live Channels</td><td>In development</td><td></td></tr>
+    <tr></td><td>MochiTIF Sample TV Input</td><td>Android Sample TV Input App</td><td>Included in MochiTIF Live TV App</td><td></td></tr>
+    <tr></td><td>MochiTIF Xtream Codes API Supplementary Library</td><td></td><td>Planned</td><td></td></tr>
+    <tr></td><td>MochiTIF M3U Supplementary Library</td><td></td><td>Planned</td><td></td></tr>
   </tbody>
 </table>
 
