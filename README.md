@@ -12,7 +12,7 @@ MochiTIF is a project that aims to offer a updated replacement for both the Goog
   </thead>
   <tbody>
     <tr><td>MochiTIF Core Library</td><td>TIF Companion Library</td><td>In development</td><td></td></tr>
-    <tr></td><td>MochiTIF Live TV</td><td>Live Channels</td><td>In development</td><td></td></tr>
+    <tr></td><td>MochiTIF Live TV</td><td>Live Channels</td><td>Full release</td><td><a href="https://play.google.com/store/apps/details?id=com.brunochanrio.mochitif.tv">Download on Google Play</a></td></tr>
     <tr></td><td>MochiTIF Sample TV Input</td><td>Android Sample TV Input App</td><td>Included in MochiTIF Live TV App</td><td></td></tr>
     <tr></td><td>MochiTIF Xtream Codes API Supplementary Library</td><td></td><td>Planned</td><td></td></tr>
     <tr></td><td>MochiTIF M3U Supplementary Library</td><td></td><td>Planned</td><td></td></tr>
