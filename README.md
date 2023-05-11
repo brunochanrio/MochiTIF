@@ -11,7 +11,7 @@ MochiTIF is a project that aims to offer a updated replacement for both the Goog
     <tr><th align="left">Component Name</th><th align="left">Component to replace</th><th align="left">Status</th><th align="left">Download</th></tr>
   </thead>
   <tbody>
-    <tr><td>MochiTIF Core Library</td><td>TIF Companion Library</td><td>In development</td><td></td></tr>
+    <tr><td>MochiTIF Core Library</td><td>TIF Companion Library</td><td>Full release</td><td><a href="https://jitpack.io/#brunochanrio/MochiTIF/0.1">Available on JitPack</a></td></tr>
     <tr></td><td>Mochi Live TV</td><td>Live Channels</td><td>Full release</td><td><a href="https://play.google.com/store/apps/details?id=com.brunochanrio.mochitif.tv">Download on Google Play</a></td></tr>
     <tr></td><td>MochiTIF Sample TV Input</td><td>Android Sample TV Input App</td><td>Included in Mochi Live TV App</td><td></td></tr>
     <tr></td><td>MochiTIF Xtream Codes API Supplementary Library</td><td></td><td>Planned</td><td></td></tr>
@@ -41,3 +41,23 @@ This supplementary library is not independent and requires the MochiTIF Core Lib
 The M3U Supplementary Library of MochiTIF, allows you to build apps for Android TV and Google TV that offers channels from a M3U Playlist, with its EPG Guides
 
 This supplementary library is not independent and requires the MochiTIF Core Library to be added to your project
+
+## How to add MochiTIF Libraries to your project
+
+### How to add MochiTIF Core Library
+1. Add the JitPack repository to your root build.gradle at the end of repositories:
+```
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+```
+2. Add the dependency
+```
+	dependencies {
+	        implementation 'com.github.brunochanrio:MochiTIF:0.1'
+	}
+```
+The usage of the MochiTIF Core Library is identical to the original TIF Companion Library
