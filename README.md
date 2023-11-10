@@ -45,7 +45,7 @@ The MochiTIF Sample TV Input, bundled in Mochi Live TV app, allows you to demons
 2. Add the dependency
 ```
 	dependencies {
-	        implementation 'com.github.brunochanrio:MochiTIF:0.2'
+	        implementation 'com.github.brunochanrio:MochiTIF:1.0'
 	}
 ```
 The usage of the MochiTIF Core Library is identical to the original TIF Companion Library
